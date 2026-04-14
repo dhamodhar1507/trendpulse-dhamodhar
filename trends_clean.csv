@@ -1,0 +1,99 @@
+post_id,title,category,score,num_comments,author,collected_at
+47762864,Backblaze has stopped backing up your data,technology,93,39,rrreese,2026-04-14 15:43:21
+47760529,DaVinci Resolve – Photo,technology,572,146,thebiblelover7,2026-04-14 15:43:22
+47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,technology,953,267,speckx,2026-04-14 15:43:23
+47762641,Introspective Diffusion Language Models,technology,40,10,zagwdt,2026-04-14 15:43:24
+47762901,An AI Vibe Coding Horror Story,technology,119,89,teichmann,2026-04-14 15:43:25
+47757495,GitHub Stacked PRs,technology,715,377,ezekg,2026-04-14 15:43:25
+47761997,Distributed DuckDB Instance,technology,56,10,citguru,2026-04-14 15:43:26
+47759709,Lean proved this program correct; then I found a bug,technology,252,127,bumbledraven,2026-04-14 15:43:27
+47759341,WiiFin – Jellyfin Client for Nintendo Wii,technology,160,71,throwawayk7h,2026-04-14 15:43:28
+47762060,The secrets of the Shinkansen,technology,80,67,WillDaSilva,2026-04-14 15:43:29
+47711148,A soft robot has no problem moving with no motor and no gears,technology,33,4,hhs,2026-04-14 15:43:29
+47761723,MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres,technology,22,2,adunk,2026-04-14 15:43:30
+47761625,Multi-Agentic Software Development Is a Distributed Systems Problem,technology,37,10,tie-in,2026-04-14 15:43:31
+47718284,Design and implementation of DuckDB internals,technology,122,8,mpweiher,2026-04-14 15:43:32
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,technology,420,235,m-hodges,2026-04-14 15:43:32
+47722629,Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict,technology,5,0,rfarley04,2026-04-14 15:43:33
+47708457,Rust Threads on the GPU,technology,75,21,PaulHoule,2026-04-14 15:43:34
+47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,technology,386,257,t-3,2026-04-14 15:43:35
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,technology,72,19,mufeedvh,2026-04-14 15:43:36
+47761609,TanStack Start Now Support React Server Components,technology,59,45,polywock,2026-04-14 15:43:37
+47752819,Make tmux pretty and usable (2024),technology,383,235,speckx,2026-04-14 15:43:38
+47705390,Lumina – a statically typed web-native language for JavaScript and WASM,technology,11,4,light_ideas,2026-04-14 15:43:39
+47728970,"Write less code, be more responsible",technology,92,56,orhunp_,2026-04-14 15:43:39
+47716805,Anastasia (1997) live action reference material,technology,27,3,hyperific,2026-04-14 15:43:40
+47756321,How to make Firefox builds 17% faster,technology,180,34,mbitsnbites,2026-04-14 15:43:41
+47760764,A new spam policy for “back button hijacking”,worldnews,366,221,zdw,2026-04-14 15:43:44
+47756231,New Mexico governor signs nation's first universal child care law,worldnews,27,12,eatonphil,2026-04-14 15:45:07
+47759541,Tourists to Australia to have social media vetted under Trumpian Coalition,worldnews,15,11,KnuthIsGod,2026-04-14 15:45:13
+47755938,Warp,worldnews,6,1,Resayours,2026-04-14 15:45:17
+47727659,Productive Procrastination,worldnews,162,50,maxvij,2026-04-14 15:45:24
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,438,276,neversaydie,2026-04-14 15:45:27
+47721946,JSON formatter Chrome plugin now closed and injecting adware,worldnews,287,136,jkl5xx,2026-04-14 15:46:18
+47743077,Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%,worldnews,70,20,bratao,2026-04-14 15:46:31
+47761215,Pepsi was warned $7 for Doritos was too much. Now they are paying the price,worldnews,8,0,matthest,2026-04-14 15:47:06
+47745261,Vegetative Patients May Be More Aware Than We Knew,worldnews,35,13,bookofjoe,2026-04-14 15:47:08
+47745230,Sam Altman's home targeted in second attack,worldnews,152,353,babelfish,2026-04-14 15:47:13
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,392,367,chabons,2026-04-14 15:47:48
+47758029,He Warned About the Dangers of A.I. If Only His Father Had Listened,worldnews,8,1,ceejayoz,2026-04-14 15:48:10
+47729994,Polymarket gamblers betting millions on war,worldnews,159,129,sandebert,2026-04-14 15:48:17
+47756930,"Brazil's top labor inspector fired for adding China's BYD to 'dirty list,'",worldnews,12,0,tartoran,2026-04-14 15:48:18
+47693960,Flashback to a time when government reports were works of art,worldnews,30,12,NaOH,2026-04-14 15:48:24
+47759990,YouTube removes pro-Iran channel producing anti-Trump videos,worldnews,14,1,cramsession,2026-04-14 15:48:25
+47760633,Everyone Has Trump's Phone Number Now,worldnews,6,0,Cider9986,2026-04-14 15:48:29
+47722566,DOJ wants to scrap Watergate-era rule that makes presidential records public,worldnews,261,69,tlhunter,2026-04-14 15:48:48
+47718694,"""Negative"" views of Broadcom driving VMware migrations, rival says",worldnews,76,39,breve,2026-04-14 15:49:02
+47755118,Palantir Stock Continues to Fall. Not Even the President Can Erase the Losses,worldnews,16,2,1vuio0pswjnm7,2026-04-14 15:49:12
+47760304,Wyden Urges House to Reject Handing Trump Unchecked Surveillance Authority,worldnews,9,0,Cider9986,2026-04-14 15:49:25
+47729926,Hungary Is a Laboratory for Illiberal Nationalism. The Results Are In,worldnews,46,22,rwmj,2026-04-14 15:49:34
+47759176,Philippines accuses China of using cyanide to poison South China Sea atoll,worldnews,13,0,c420,2026-04-14 15:49:36
+47761825,Roblox devs now need a subscription to share their games freely,sports,53,55,hallole,2026-04-14 15:49:45
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,129,38,radeeyate,2026-04-14 15:50:29
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,625,152,iceberger2001,2026-04-14 15:51:05
+47749295,Show HN: Equirect – a Rust VR video player,sports,13,1,greggman65,2026-04-14 15:51:15
+47698111,Bevy game development tutorials and in-depth resources,sports,138,68,GenericCanadian,2026-04-14 15:51:23
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,237,56,joko42,2026-04-14 15:51:27
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",sports,82,26,jscalo,2026-04-14 15:51:40
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,120,36,pruz,2026-04-14 15:53:52
+47704430,Can It Resolve Doom? Game Engine in 2k DNS Records,sports,10,2,choult,2026-04-14 15:54:28
+47723243,Combining spicy foods with mint boosts anti-inflammatory effects 100x or more,sports,87,49,joeax,2026-04-14 15:54:33
+47717514,"Inflation Rose to 3.3% in March, Driven by Rising Fuel Costs",sports,63,3,JumpCrisscross,2026-04-14 15:54:58
+47757469,We need Post-Quantum Cryptography more than ever,science,20,0,ethanhawksley,2026-04-14 15:56:02
+47756448,Probing the Planck scale with quantum computation,science,10,1,haxiomic,2026-04-14 15:56:32
+47738343,The Physics of GPS,science,161,35,maouida,2026-04-14 15:56:45
+47737376,Phyphox – Physical Experiments Using a Smartphone,science,254,39,_Microft,2026-04-14 15:57:04
+47731838,Keeping a Postgres Queue Healthy,science,116,28,tanelpoder,2026-04-14 15:57:07
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,science,135,19,sohkamyung,2026-04-14 15:57:38
+47708818,Native Instant Space Switching on macOS,science,642,326,PaulHoule,2026-04-14 15:58:00
+47759281,NASA Moon Base User's Guide [pdf],science,6,1,sethbannon,2026-04-14 15:58:14
+47728323,Relics of the Heroic Age of Manned Space Flight,science,20,1,zdgeier,2026-04-14 15:58:21
+47733222,Show HN: Bitcoin and Quantum Computing – a three-part research series,science,6,1,nvk,2026-04-14 16:00:47
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",entertainment,150,38,cvrajeesh,2026-04-14 16:01:20
+47715256,Tool to explore regularly sampled time series,entertainment,16,0,rsva,2026-04-14 16:01:25
+47757552,Show HN: Continual Learning with .md,entertainment,26,23,wenhan_zhou,2026-04-14 16:01:48
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,507,288,a-ve,2026-04-14 16:01:52
+47724352,Filing the corners off my MacBooks,entertainment,1396,669,normanvalentine,2026-04-14 16:01:57
+47758453,Your Favorite Movies Were CIA Propaganda [video],entertainment,31,2,joe_mamba,2026-04-14 16:02:06
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,53,0,mooreds,2026-04-14 16:02:07
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,240,100,Rochus,2026-04-14 16:02:12
+47754329,Show HN: Farchive – SQLite-backed history-preserving compressed archive,entertainment,5,0,ekns,2026-04-14 16:02:48
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,entertainment,75,14,anigbrowl,2026-04-14 16:03:08
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,entertainment,155,37,maouida,2026-04-14 16:03:15
+47758287,Dear Master (an open letter from an early Facebook employee),entertainment,13,1,plonkus,2026-04-14 16:03:20
+47745300,Show HN: A social feed with no strangers,entertainment,9,5,rpatni,2026-04-14 16:03:36
+47722011,Show HN: A WYSIWYG word processor in Python,entertainment,90,39,chrisecker,2026-04-14 16:03:38
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,176,168,randerson_112,2026-04-14 16:03:42
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,48,25,behat,2026-04-14 16:03:49
+47721255,Show HN: Eve – Managed OpenClaw for work,entertainment,71,39,zachdive,2026-04-14 16:03:51
+47699470,The Life and Death of the Book Review,entertainment,30,7,lermontov,2026-04-14 16:03:58
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,entertainment,40,20,olleeolleeollee,2026-04-14 16:04:01
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,63,33,babawere,2026-04-14 16:04:31
+47736071,The Universal Standard Book Number,entertainment,13,4,novalis78,2026-04-14 16:04:38
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,147,158,latchkey,2026-04-14 16:04:53
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,62,12,rvitorper,2026-04-14 16:05:03
+47696562,Show HN: Is Hormuz open yet?,entertainment,482,209,anonfunction,2026-04-14 16:05:08
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,33,3,larry-the-agent,2026-04-14 16:05:11
+47750669,Android now stops you sharing your location in photos,technology,373,298,edent,2026-04-14 16:05:14
+47729350,I just want simple S3,technology,185,95,g0xA52A2A,2026-04-14 16:05:14
+47753689,Building a CLI for all of Cloudflare,technology,311,101,soheilpro,2026-04-14 16:05:16
